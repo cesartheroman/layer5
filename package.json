@@ -77,7 +77,7 @@
     "gsap": "^3.12.2",
     "joi": "^17.10.2",
     "js-search": "^2.0.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mui-datatables": "^4.3.0",
     "path-browserify": "^1.0.1",
     "posthog-js": "^1.161.6",
